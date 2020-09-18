@@ -1,2 +1,2 @@
 # titanic_pytorch
-Learning Pytorhc with titanic dataset
+Learning Pytorch with titanic dataset
